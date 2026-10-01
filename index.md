@@ -2,5 +2,4 @@
 layout: default
 title: Home
 ---
-
-Applying and developing Spatial Data Science methods to characterise, map and predict drought dynamics and risk.
+Characterising spatio-temporal variability, mapping risk and predicting drought severity.
