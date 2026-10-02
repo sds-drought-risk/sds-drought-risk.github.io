@@ -2,50 +2,139 @@
 layout: default
 title: Home
 ---
-# Spatial Data Science for Drought Dynamics and Risk Assessment
 
 *Characterising the spatio-temporal variability of drought, mapping risk and predicting severity.*
 
-[About](#about) | [Applications](#applications) | [Results](#results) | [Publications](#publications) | [Outreach](#outreach) | [Team](#team)
-
----
-
-<a id="about"></a>
 ## About
 
-[conteúdo do About ficará aqui]
+### 1. Why understanding drought dynamics matters now
+
+#### Drought in a changing climate
+
+Climate change is altering precipitation patterns and reshaping drought dynamics in many regions worldwide.
+
+Longer dry periods and disruptions in water availability can have far-reaching consequences for water resources, agriculture, ecosystems and society.
+
+Understanding how drought evolves across space and time is therefore increasingly important for improving its characterisation and risk assessment, strengthening preparedness for severe drought conditions, and supporting informed decision-making.
+
+### 2. Knowledge gaps
+
+#### Integrating complementary drought information for spatial assessment and anticipation
+
+Despite the growing availability of drought monitoring, mapping and forecasting products, important challenges remain in integrating complementary information across spatial and temporal scales.
+
+Drought is a complex and multidimensional phenomenon.
+
+No single indicator captures every relevant dimension of drought. Its characterisation therefore requires more than a single measure of rainfall: the persistence of dry periods, the frequency of low-precipitation conditions, their severity and spatial variability provide complementary information.
+
+Integrating these dimensions remains challenging, particularly at local scales, where observational information may be spatially uneven, drought behaviour can vary substantially across space and time, and predictive skill may vary across regions, seasons and forecasting horizons.
+
+A further challenge is to translate this integrated information into locally relevant and actionable knowledge that can support preparedness, early warning and informed decision-making.
+
+### 3. Our approach
+
+#### Integrating spatio-temporal drought characterisation, risk mapping and anticipation
+
+Our approach uses Spatial Data Science as an integrative framework encompassing spatial and spatio-temporal analysis, geostatistical modelling and data-driven methods to investigate drought dynamics, integrate complementary indicators, represent spatial variability and uncertainty, and assess short-term predictive performance.
+
+#### Questions guiding our research
+
+i) What spatial and temporal changes in drought severity and variability can be identified from long-term observations?
+
+ii) What additional information is gained by integrating complementary drought indicators rather than analysing them separately?
+
+iii) Where are the most critical drought-prone areas, how do they evolve over time, and how can their spatial uncertainty be represented?
+
+iv) How accurately can short-term drought severity be anticipated from recent and historical information, and under which conditions does predictive skill decrease?
+
+As the research develops, this framework can be extended through additional drought indicators, climatic variables and modelling approaches, while exploring their value for increasingly actionable drought anticipation and early-warning applications.
+
+### Methods at a glance
+
+#### Drought indicators
+
+Current research uses precipitation-based indicators to describe complementary dimensions of meteorological drought.
+
+Consecutive Dry Days (CDD) characterises the persistence of dry spells, while RL10 represents the frequency of days with low precipitation. A Joint Drought Index (JDI) integrates information from both indicators.
+
+#### Spatial modelling
+
+Geostatistical methods are used to transform observations recorded at meteorological stations into continuous spatial representations of drought-related variables.
+
+Variogram modelling and Direct Sequential Simulation are used to characterise spatial patterns and generate multiple possible spatial realisations, allowing spatial variability and uncertainty to be represented.
+
+#### Integrated drought assessment
+
+Multidimensional Scaling (MDS) is used to combine complementary drought information into a Joint Drought Index, allowing the joint spatial and temporal behaviour of the indicators to be analysed and mapped.
+
+#### Drought risk mapping
+
+Spatial simulations are used to classify drought severity and identify areas where critical thresholds are more likely to be exceeded.
+
+Drought-risk classifications and exceedance-probability maps provide spatially explicit information on critical areas and changes in drought conditions over time.
+
+#### Drought prediction
+
+Machine-learning methods are used to investigate short-term drought-severity prediction. A Random Forest model has been developed using recent drought conditions together with historical information for the target period.
+
+Model performance is assessed using held-out test data and predictive-performance metrics including MAE, RMSE and NSE.
 
 ---
 
-<a id="applications"></a>
 ## Applications
 
-[conteúdo de Applications ficará aqui]
+### 1. Drought dynamics
+
+*Spatio-temporal characterisation and risk mapping*
+
+**Case study: Southern Portugal**
+
+[Explore the current results →](#drought-dynamics-results)
+
+### 2. Drought prediction
+
+*Short-term prediction of drought severity*
+
+**Case study: Southern Portugal**
+
+[Explore the current results →](#drought-prediction-results)
+
+### 3. Early warning
+
+*Towards an early-warning system for drought severity*
+
+[Explore current development →](#early-warning-results)
 
 ---
 
-<a id="results"></a>
 ## Results
 
-[conteúdo de Results ficará aqui]
+### Drought dynamics results
+
+[Description and figure to be added.]
+
+### Drought prediction results
+
+[Description and figure to be added.]
+
+### Early warning results
+
+[Current development to be added.]
 
 ---
 
-<a id="publications"></a>
 ## Scientific publications
 
-[conteúdo de Publications ficará aqui]
+[Publications to be added.]
 
 ---
 
-<a id="outreach"></a>
 ## Outreach
 
-[conteúdo de Outreach ficará aqui]
+[Outreach activities to be added.]
 
 ---
 
-<a id="team"></a>
 ## Team
 
-[conteúdo da Team ficará aqui]
+[Team information to be added.]
