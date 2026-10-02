@@ -6,8 +6,6 @@ permalink: /results/
 
 # Results
 
-Research results, maps and visual outputs from the project will be added here.
-
 
 <a id="drought-dynamics"></a>
 ## 1. Drought dynamics
