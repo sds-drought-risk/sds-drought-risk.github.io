@@ -5,8 +5,8 @@ title: About
 
 # About 
 
-**1. Why understanding drought dynamics matters now** 
-*Drought in a changing climate* 
+**1. Why understanding drought dynamics matters now**  
+*Drought in a changing climate*
 
 Climate change is altering precipitation patterns and reshaping drought dynamics in many regions worldwide.
 
