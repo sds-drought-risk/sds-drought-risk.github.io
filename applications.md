@@ -1,30 +1,20 @@
----
-layout: default
-title: Applications
----
-
 # Applications
 
-## 1. Drought dynamics
-
-*Spatio-temporal characterisation and risk mapping*
+## 1. Spatio-temporal characterisation of drought dynamics and risk mapping
 
 **Case study: Southern Portugal**
 
 [Explore results →](/results/#drought-dynamics)
 
 
-## 2. Drought prediction
-
-*Short-term prediction of drought severity*
+## 2. Short-term prediction of drought severity
 
 **Case study: Southern Portugal**
 
 [Explore results →](/results/#drought-prediction)
 
 
-## 3. Early warning
+## 3. Early-warning system for drought severity
 
-*Towards an early-warning system for drought severity*
-
+[Explore current development →](/results/#early-warning)
 [Explore current development →](/results/#early-warning)
