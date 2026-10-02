@@ -72,7 +72,7 @@ Variogram modelling and Direct Sequential Simulation are used to characterise sp
 
 **Case study: Southern Portugal**
 
-[Explore the current results →](#drought-dynamics-results)
+[Explore results →](#drought-dynamics-results)
 
 ### 2. Drought prediction
 
@@ -80,7 +80,7 @@ Variogram modelling and Direct Sequential Simulation are used to characterise sp
 
 **Case study: Southern Portugal**
 
-[Explore the current results →](#drought-prediction-results)
+[Explore results →](#drought-prediction-results)
 
 ### 3. Early warning
 
