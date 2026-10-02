@@ -2,4 +2,4 @@
 layout: default
 title: Home
 ---
-Characterising spatio-temporal variability, mapping risk and predicting drought severity.
+Characterising the spatio-temporal variability of drought, mapping risk and predicting severity.
