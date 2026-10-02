@@ -6,7 +6,6 @@ title: About
 # About 
 
 **1. Why understanding drought dynamics matters now**  
-*Drought in a changing climate*
 
 Climate change is altering precipitation patterns and reshaping drought dynamics in many regions worldwide.
 
@@ -15,7 +14,6 @@ Longer dry periods and disruptions in water availability can have far-reaching c
 Understanding how drought evolves across space and time is therefore increasingly important for improving its characterisation and risk assessment, strengthening preparedness for severe drought conditions, and supporting informed decision-making.
 
 **2. Knowledge gaps (ou Open scientific questions?  the research challenge?)**  
-*Integrating complementary drought information for spatial assessment and anticipation*
 
 Despite the growing availability of drought monitoring, mapping and forecasting products, important challenges remain in integrating complementary information across spatial and temporal scales.
 
@@ -28,7 +26,6 @@ Integrating these dimensions remains challenging, particularly at local scales, 
 A further challenge is to translate this integrated information into locally relevant and actionable knowledge that can support preparedness, early warning and informed decision-making.
 
 **3. Our approach (ou What can we do about it?)****  
-*Integrating spatio-temporal drought characterisation, risk mapping and anticipation*
 
 Our approach uses Spatial Data Science as an integrative framework encompassing spatial and spatio-temporal analysis, geostatistical modelling and data-driven methods to investigate drought dynamics, integrate complementary indicators, represent spatial variability and uncertainty, risk and assess short-term predictive performance.
 
