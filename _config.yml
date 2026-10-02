@@ -5,8 +5,8 @@ theme: minima
 
 header_pages:
   - about.md
-  - team.md
-  - methods.md
+  - applications.md
   - results.md
   - publications.md
   - outreach.md
+  - team.md
