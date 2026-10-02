@@ -8,32 +8,13 @@ permalink: /results/
 
 
 <a id="drought-dynamics"></a>
-## 1. Drought dynamics
-
-### Spatio-temporal characterisation and risk mapping
-
-**Case study: Southern Portugal**
-
+## 1. Spatio-temporal characterisation of drought dynamics and risk mapping in Southern Portugal
 [Results and figure to be added.]
 
 
 ---
 
 <a id="drought-prediction"></a>
-## 2. Drought prediction
-
-### Short-term prediction of drought severity
-
-**Case study: Southern Portugal**
-
+## 2. Short-term prediction of drought severity in Southern Portugal
 [Results and figure to be added.]
 
-
----
-
-<a id="early-warning"></a>
-## 3. Early warning
-
-### Towards an early-warning system for drought severity
-
-[Current development to be added.]
