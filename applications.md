@@ -1,4 +1,4 @@
-# Applicatiosn
+# Applications
 
 ## Spatio-temporal characterisation of drought dynamics and risk mapping
 
