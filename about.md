@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About the Project
+title: About
 ---
 
-# About the Project
+# About 
 
 This research project focuses on the application of Spatial Data Science methods to drought risk assessment.
 
