@@ -51,33 +51,16 @@ As the research develops, this framework can be extended through additional drou
 
 ### Methods at a glance
 
-#### Drought indicators
+**Drought indicators:** our current research uses precipitation-based indicators to describe complementary dimensions of meteorological drought. Consecutive Dry Days (CDD) characterises the persistence of dry spells, while RL10 represents the frequency of days with low precipitation. A Joint Drought Index (JDI) integrates information from both indicators.
 
-Current research uses precipitation-based indicators to describe complementary dimensions of meteorological drought.
-
-Consecutive Dry Days (CDD) characterises the persistence of dry spells, while RL10 represents the frequency of days with low precipitation. A Joint Drought Index (JDI) integrates information from both indicators.
-
-#### Spatial modelling
-
-Geostatistical methods are used to transform observations recorded at meteorological stations into continuous spatial representations of drought-related variables.
-
+**Spatial modelling:** Geostatistical methods are used to transform observations recorded at meteorological stations into continuous spatial representations of drought-related variables. 
 Variogram modelling and Direct Sequential Simulation are used to characterise spatial patterns and generate multiple possible spatial realisations, allowing spatial variability and uncertainty to be represented.
 
-#### Integrated drought assessment
+**Integrated drought assessment:** Multidimensional Scaling (MDS) is used to combine complementary drought information into a Joint Drought Index, allowing the joint spatial and temporal behaviour of the indicators to be analysed and mapped.
 
-Multidimensional Scaling (MDS) is used to combine complementary drought information into a Joint Drought Index, allowing the joint spatial and temporal behaviour of the indicators to be analysed and mapped.
+**Drought risk mapping:** Spatial simulations are used to classify drought severity and identify areas where critical thresholds are more likely to be exceeded. Drought-risk classifications and exceedance-probability maps provide spatially explicit information on critical areas and changes in drought conditions over time.
 
-#### Drought risk mapping
-
-Spatial simulations are used to classify drought severity and identify areas where critical thresholds are more likely to be exceeded.
-
-Drought-risk classifications and exceedance-probability maps provide spatially explicit information on critical areas and changes in drought conditions over time.
-
-#### Drought prediction
-
-Machine-learning methods are used to investigate short-term drought-severity prediction. A Random Forest model has been developed using recent drought conditions together with historical information for the target period.
-
-Model performance is assessed using held-out test data and predictive-performance metrics including MAE, RMSE and NSE.
+**Drought prediction:** Machine-learning methods are used to investigate short-term drought-severity prediction. A Random Forest model has been developed using recent drought conditions together with historical information for the target period. Model performance is assessed using held-out test data and predictive-performance metrics including MAE, RMSE and NSE.
 
 ---
 
